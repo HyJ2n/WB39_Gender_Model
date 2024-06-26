@@ -1,0 +1,9 @@
+
+train: C:/Users/admin/Desktop/Project/Main/Gender/gender/train/images
+val: C:/Users/admin/Desktop/Project/Main/Gender/gender/valid/images
+
+nc: 2  # 클래스 수
+
+names:
+  0: male
+  1: female
